@@ -137,22 +137,25 @@ namespace ExercicioEFCoreCodeFirst
                 Console.WriteLine("Adicionando um novo filme");
                 db.Movies.Add(new Movie
                 {
-                    Title = "Logan",
+                    Title = "Power Ranger",
                     Director = "James Mangold",
                     Rating = 8.5,
                     ReleaseDate = new DateTime(2017, 03, 24),
                     GenreID = 1
                 });
+
                 //Remover o primeiro filme consultado
                 Console.WriteLine("Removendo um filme");
                 var todosFilmes = db.Movies.ToList();
                 db.Movies.Remove(todosFilmes[0]);
                 //Atualizar os dados de um filme
                 Console.WriteLine("Atualizando um filme");
-                Movie batman = todosFilmes.Where(f => f.Title == "The Dark Knight").FirstOrDefault();
+                Movie batman = todosFilmes
+                    .Where(f => f.Title == "The Dark Knight")
+                    .FirstOrDefault();
                 if (batman != null)
                 {
-                    batman.Title = "Batman - " + batman.Title;
+                    batman.Title = "Batman (alterado) - " + batman.Title;
                 }
                 //Persistir as alterações (verifique o SQL gerado)
                 db.SaveChanges();
