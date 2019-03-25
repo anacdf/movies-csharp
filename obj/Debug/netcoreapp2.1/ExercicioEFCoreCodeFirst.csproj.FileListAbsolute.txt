@@ -1,0 +1,11 @@
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.deps.json
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.runtimeconfig.json
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.runtimeconfig.dev.json
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.dll
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\bin\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.pdb
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.csproj.CoreCompileInputs.cache
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.AssemblyInfoInputs.cache
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.AssemblyInfo.cs
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.dll
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.pdb
+H:\5o semestre\PSA\ExercicioEFCoreCodeFirst\MoviesSolutions\ExercicioEFCoreCodeFirst\obj\Debug\netcoreapp2.1\ExercicioEFCoreCodeFirst.csprojAssemblyReference.cache
